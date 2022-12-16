@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5316518445",
+    "project_id": "flash-chat-af4d6",
+    "storage_bucket": "flash-chat-af4d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5316518445:android:ad0b75b8b701af0a1ccea4",
+        "android_client_info": {
+          "package_name": "com.waleedosama.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5316518445-3mh6s2b668de6i43dejbtukbbld40ibd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyzIiwsprtQRooc8feiXLizrIEz-dZ6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5316518445-3mh6s2b668de6i43dejbtukbbld40ibd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
