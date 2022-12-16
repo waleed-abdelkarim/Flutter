@@ -1,16 +1,3 @@
 # mi_card_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![InkedScreenshot_1671187190](https://user-images.githubusercontent.com/65503195/208093124-526d77a1-b2cd-4925-b663-6ae5cf4d9423.jpg)
